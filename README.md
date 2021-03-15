@@ -3,6 +3,7 @@
 <ul>
   <li> Credit : </li>
   <li>  Develop by : ipincamp </li>
+  <li>  Website Discord : Zack </li>
 </ul>
 
 <a> Please Add Bot Token And Make It Safety </a>
