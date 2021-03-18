@@ -1,0 +1,108 @@
+/* Showcase */
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap') repeat scroll 0 0 rgba(0, 0, 0 , 0);
+.showcase {
+	height: 700px;
+	position: relative;
+	background: url("https://images.unsplash.com/photo-1465146633011-14f8e0781093?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3450&q=80");
+	color: #eee;
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	perspective: 1000px;
+	perspective-origin: 50% 50%;
+	animation: animation 100s linear infinite;
+}
+
+@keyframes animation {
+	100%{
+		background-position:0px -3000px;
+	}
+}
+}
+
+.showcase h1 {
+	font-size: 40px;
+	position: center;
+	text-align: center;
+}
+
+.showcase p {
+	margin: 20px 0;
+	text-align: center;
+}
+
+.showcase .flex {
+	overflow: visible;
+	justify-content: center;
+}
+
+/* Panels */
+.features {
+	height: auto 500px;
+	margin: 50px 0;
+}
+
+.features h3 {
+	text-align: center;
+	font-size: 25px;
+	font-weight: 400;
+}
+
+.features p {
+	text-align: center;
+}
+
+.features img {
+	border-radius: 5px;
+	justify-self: center;
+	width: 75%;
+}
+
+.mobile {
+	display: none;
+}
+
+/* Tablet Responsive */
+@media (max-width: 768px) {
+	.features img {
+		width: 100%;
+	}
+}
+
+@media (max-width: 450px) {
+	.showcase {
+		height: 450px;
+	}
+
+	.showcase .buttons {
+		flex-direction: column;
+	}
+
+	.showcase h1 {
+		font-size: 25px;
+	}
+
+	.showcase p {
+		font-size: 14px;
+	}
+
+	.showcase a {
+		width: 100%;
+		text-align: center;
+	}
+
+	.features .grid {
+		grid-template-columns: 1fr;
+		grid-template-rows: 1fr;
+	}
+
+	.desktop {
+		display: none;
+	}
+
+	.mobile {
+		display: block;
+	}
+}
