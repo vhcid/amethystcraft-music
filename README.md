@@ -78,7 +78,6 @@ Currently available locales are:
 
 ## 📝 Credits & Support
 
-> [Discord](https://discord.com/invite/FGw4nCbfqB)
-> [Ko-Fi](https://ko-fi.com/ariflitejek)
-> [Saweria](https://saweria.co/ipincamp)
-> [Website](https://pinbot.amethystcraft.fun/pinbot) by `Zack`
+> Discord Server Amethyst Craft Indonesia [Click](https://discord.com/invite/FGw4nCbfqB)
+> Donate [Click](https://ko-fi.com/ariflitejek) or [Click](https://saweria.co/ipincamp)
+> Website [Click](https://pinbot.amethystcraft.fun/pinbot) by `Zack`
