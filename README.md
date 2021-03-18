@@ -62,7 +62,7 @@ Currently available locales are:
 * Show api ping (--ping)
 * Show bot uptime (--uptime)
 * Toggle pruning of bot messages (--pruning)
-* Localization in 6 languages
+* Localization in 2 languages
 * Help (--help, --h)
 * Command Handler from [discordjs.guide](https://discordjs.guide/)
 * Media Controls via Reactions
@@ -78,7 +78,7 @@ Currently available locales are:
 
 ## 📝 Credits & Support
 
-[Discord](https://discord.com/invite/FGw4nCbfqB)
-[Ko-Fi](https://ko-fi.com/ariflitejek)
-[Saweria](https://saweria.co/ipincamp)
-[Website](https://pinbot.amethystcraft.fun/pinbot) by `Zack`
+> [Discord](https://discord.com/invite/FGw4nCbfqB)
+> [Ko-Fi](https://ko-fi.com/ariflitejek)
+> [Saweria](https://saweria.co/ipincamp)
+> [Website](https://pinbot.amethystcraft.fun/pinbot) by `Zack`
