@@ -43,7 +43,7 @@ Currently available locales are:
 - Check [Contributing](#-contributing) if you wish to help add more languages!
 
 ## 📝 Features & Commands
-
+* Read At : [Wiki](https://github.com/amethystcraft-lab/amethystcraft-music/wiki/First-Page-Pinbot-Wiki)
 > Note: The default prefix is '--'
 
 * Now Playing (--np)
