@@ -1,5 +1,6 @@
 # 🤖 amethystcraft-music (Discord Music Bot)
 > amethystcraft-music is a music bot discord which is an improvement over Pinbot.
+> IF YOU WANT TO COPY THIS REPOSITORIES PLEASE READ TERM.MD . 
 
 ## Requirements
 
